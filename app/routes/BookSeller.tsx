@@ -9,7 +9,7 @@ export default function BookSeller() {
     <>
       <div className="banner">
         <h1 className="text-2xl font-sans font-bold">
-          ยินดีต้อนรับเข้าสู่ร้านขายหนังสือ Solar Book Center
+          ยินดีต้อนรับเข้าสู่ร้านขายหนังสือ Solar Book Centerr
         </h1>
         <hr className="py-3" />
         <p>
